@@ -1,4 +1,4 @@
-package com.example.calculator;
+package pro.sky.java.course2.homework.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
